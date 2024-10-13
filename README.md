@@ -14,7 +14,7 @@ Um gerenciador de tarefas simples, desenvolvido com Django, que permite adiciona
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu_usuario/offline_task_manager.git
+   git clone https://github.com/j0a0f3l1p3/offline_task_manager.git
    cd offline_task_manager
    ```
 
